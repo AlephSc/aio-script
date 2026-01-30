@@ -6,4 +6,5 @@ List_Script = {
   {"rtmg", "Retrive Mag + Drop", "This script will retrive item from magplant above you and drop it next to you"},
   {"rdmg", "Retrive Mag + Trash", "This script will retrive item from magplant above you and trash the item"},
   {"upac", "Auto Upgrade Ances", "This script will automatically upgrade your ances to maximum level"},
+  {"cvgr", "Auto Convert Garuda", "Converting 40 Garuda item to 40 Tourney Token"}
 }
