@@ -7,4 +7,5 @@ List_Script = {
   {"rdmg", "Retrive Mag + Trash", "This script will retrive item from magplant above you and trash the item"},
   {"upac", "Auto Upgrade Ances", "This script will automatically upgrade your ances to maximum level"},
   {"cvgr", "Auto Convert Garuda", "Converting 40 Garuda item to 40 Tourney Token"}
+  {"bps", "Buy Provider Spray", "Auto buy provider spray from the gems store and drop the spray"}
 }
