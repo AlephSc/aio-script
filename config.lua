@@ -1,5 +1,6 @@
 List_Script = {
   -- ID | Name | Desc
+  {"atgch", "Auto Gacha", "Auto Gacha (using /gacha packet) And auto convert TGS to GGL to BGL)"},
   {"rcb", "Recycle BGL", "This Script Will Change GGL To BGL and Recycle it for gems"},
   {"bvbp", "Buy Vend + Add BP", "This Script Will Automatically Buying Items From The vend and then add it into the backpack"},
   {"admg", "Auto Add Item To Magplant", "This Script will add items to magplant above you"},
