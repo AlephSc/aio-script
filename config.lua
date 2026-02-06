@@ -10,3 +10,5 @@ List_Script = {
   {"cvgr", "Auto Convert Garuda", "Converting 40 Garuda item to 40 Tourney Token"},
   {"bps", "Buy Provider Spray", "Auto buy provider spray from the gems store and drop the spray"}
 }
+
+SendPacket(2, "action|input\n|text|Free Script By Aleph, Visit alephsc.github.io For More Details")
