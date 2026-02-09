@@ -8,7 +8,8 @@ List_Script = {
   {"rdmg", "Retrive Mag + Trash", "This script will retrive item from magplant above you and trash the item"},
   {"upac", "Auto Upgrade Ances", "This script will automatically upgrade your ances to maximum level"},
   {"cvgr", "Auto Convert Garuda", "Converting 40 Garuda item to 40 Tourney Token"},
-  {"bps", "Buy Provider Spray", "Auto buy provider spray from the gems store and drop the spray"}
+  {"bps", "Buy Provider Spray", "Auto buy provider spray from the gems store and drop the spray"},
+  {"gcex", "Auto Gacha + Exchange", "Auto Tap Tap Gacha (Fortune Cookies) and Auto exchange"}
 }
 
 SendPacket(2, "action|input\n|text|/ Free Script By Aleph, Visit https://alephsc.github.io For More Details")
