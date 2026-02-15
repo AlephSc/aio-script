@@ -12,5 +12,6 @@ List_Script = {
   {"gcex", "Auto Gacha + Exchange", "Auto Tap Tap Gacha (Fortune Cookies) and Auto exchange"}
 },
   {"pthtv1", "Auto Plant & Harvest", "Auto Plant & Harvest Seed, Also Auto Use UWS"}
+}
 
 SendPacket(2, "action|input\n|text|/ Free Script By Aleph, Visit https://alephsc.github.io For More Details")
