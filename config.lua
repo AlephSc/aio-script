@@ -9,8 +9,7 @@ List_Script = {
   {"upac", "Auto Upgrade Ances", "This script will automatically upgrade your ances to maximum level"},
   {"cvgr", "Auto Convert Garuda", "Converting 40 Garuda item to 40 Tourney Token"},
   {"bps", "Buy Provider Spray", "Auto buy provider spray from the gems store and drop the spray"},
-  {"gcex", "Auto Gacha + Exchange", "Auto Tap Tap Gacha (Fortune Cookies) and Auto exchange"}
-},
+  {"gcex", "Auto Gacha + Exchange", "Auto Tap Tap Gacha (Fortune Cookies) and Auto exchange"},
   {"pthtv1", "Auto Plant & Harvest", "Auto Plant & Harvest Seed, Also Auto Use UWS"}
 }
 
