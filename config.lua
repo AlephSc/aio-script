@@ -10,7 +10,10 @@ List_Script = {
   {"cvgr", "Auto Convert Garuda", "Converting 40 Garuda item to 40 Tourney Token"},
   {"bps", "Buy Provider Spray", "Auto buy provider spray from the gems store and drop the spray"},
   {"gcex", "Auto Gacha + Exchange", "Auto Tap Tap Gacha (Fortune Cookies) and Auto exchange"},
-  {"pthtv1", "Auto Plant & Harvest", "Auto Plant & Harvest Seed, Also Auto Use UWS"}
+  {"pthtv1", "Auto Plant & Harvest", "Auto Plant & Harvest Seed, Also Auto Use UWS"},
+  {"drvd", "Take Item + Add Vend", "Auto Take Dropped Item and store it into the vend"},
+  {"bpvd", "Take BP + Add Vend", "Auto Take Item From Backpack and store it to vend"},
+  {"bpmg", "Take BP + Add Mag", "Auto Take Item From BP and store it to magplant"}
 }
 
 SendPacket(2, "action|input\n|text|/ Free Script By Aleph, Visit https://alephsc.github.io For More Details")
