@@ -1,2 +1,2 @@
-147.185.221.17:18657 www.growtopia1.com
-147.185.221.17:18657 www.growtopia2.com
+192.168.0.2 www.growtopia1.com
+192.168.0.2 www.growtopia2.com
